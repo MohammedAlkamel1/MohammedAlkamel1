@@ -62,31 +62,6 @@
   <a href="https://github.com/sponsors/MohammedAlkamel1/"><img alt="More about my sponsorship tiers" title="Sponsorship Tiers" src="https://custom-icon-badges.demolab.com/badge/-More%20About%20My%20Sponsorship%20Tiers-1F222E?style=for-the-badge&logoColor=white&logo=link-external"/></a>
 </details>
 
-<details open> 
-  <summary><h2>📘 My Top Open Source Projects</h2></summary>
-
-  <p align="left">
-    <a href="**ضع رابط مشروعك الأول هنا**"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=MohammedAlkamel1&repo=readme-typing-svg&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="readme-typing-svg"></a>
-    <a href="**ضع رابط مشروعك الثاني هنا**"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=MohammedAlkamel1&repo=github-readme-streak-stats&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
-    <a href="**ضع رابط مشروعك الثالث هنا**"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=MohammedAlkamel1&repo=custom-icon-badges&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="custom-icon-badges"></a>
-  </p>
-
-  <a href="https://github.com/MohammedAlkamel1?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
-</details>
-
-<details open> 
-  <summary><h2>📕 Top Projects I've Contributed To</h2></summary>
-
-  <p align="left">
-    <a href="https://github.com/pallets/flask"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=MohammedAlkamel1&repo=flask&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="flask"></a>
-    <a href="https://github.com/badges/shields"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=badges&repo=shields&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="shields"></a>
-  </p>
-
-  <p align="left">
-    <a href="https://github.com/MohammedAlkamel1/My-Contributions/blob/main/README.md"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Forks-1F222E?style=for-the-badge&logoColor=white&logo=fork"/></a>
-  </p>
-</details>
-
 <details> 
   <summary><h2>📺 Latest YouTube Videos</h2></summary>
   <a href="**ضع رابط الفيديو الأول هنا**"><img src="https://ytcards.demolab.com/?id=**ضع ID الفيديو الأول هنا**&title=**ضع عنوان الفيديو الأول هنا**&lang=en&timestamp=1696868769&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5&duration=172" alt="عنوان الفيديو الأول" title="عنوان الفيديو الأول"></a>
