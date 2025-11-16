@@ -44,24 +44,6 @@
     <img src="https://github.com/DenverCoder1/DenverCoder1/assets/20955511/ca15be3f-d00b-438e-91f6-fb5568c1f632" alt="GitHub Star 2023"/></a>
 </p>
 
-<details open> 
-  <summary><h2>🌠 Top Sponsors</h2></summary>
-
-  <table>
-    <tr>
-      <th>$5+/month</th>
-    </tr>
-    <tr>
-      <td>
-        <a href="https://github.com/typesense"><img src="https://custom-icon-badges.demolab.com/badge/-typesense-D90368?style=for-the-badge&logo=mention" alt="typesense" /></a>
-        <a href="https://github.com/hesreallyhim"><img src="https://custom-icon-badges.demolab.com/badge/-hesreallyhim-2A0060?style=for-the-badge&logo=mention" alt="hesreallyhim" /></a>
-      </td>
-    </tr>
-  </table>
-
-  <a href="https://github.com/sponsors/MohammedAlkamel1/"><img alt="More about my sponsorship tiers" title="Sponsorship Tiers" src="https://custom-icon-badges.demolab.com/badge/-More%20About%20My%20Sponsorship%20Tiers-1F222E?style=for-the-badge&logoColor=white&logo=link-external"/></a>
-</details>
-
 <details> 
   <summary><h2>📺 Latest YouTube Videos</h2></summary>
   <a href="**ضع رابط الفيديو الأول هنا**"><img src="https://ytcards.demolab.com/?id=**ضع ID الفيديو الأول هنا**&title=**ضع عنوان الفيديو الأول هنا**&lang=en&timestamp=1696868769&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5&duration=172" alt="عنوان الفيديو الأول" title="عنوان الفيديو الأول"></a>
