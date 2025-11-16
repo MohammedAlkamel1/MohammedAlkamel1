@@ -15,12 +15,7 @@
   <a href="https://github.com/MohammedAlkamel1"><img width="32px" alt="GitHub" title="GitHub Profile" src="https://i.imgur.com/vH1N9xZ.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="**ضع رابط حسابك على X/Twitter هنا**"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/AixJgnm.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="**ضع رابط حسابك على Dev.to هنا (إذا لديك)**"><img width="32px" alt="Dev.to" title="Dev.to" src="https://i.imgur.com/mVm29vK.png"></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="**ضع رابط صفحة الدعم الخاصة بك هنا (إذا لديك)**"><img width="32px" alt="Support" title="Buy me a coffee" src="https://i.imgur.com/PpLeD3K.png"/></a>
-</p>
+  </p>
 <br/>
 
 <p align="center">
